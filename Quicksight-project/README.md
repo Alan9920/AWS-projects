@@ -8,7 +8,7 @@ I had to name it like that because S3 supports global buckets which means that e
 ![1](https://github.com/Alan9920/AWS-projects/assets/83747562/aefa602a-1f78-4a30-8f04-f4311ccd6b91)
 
 After that I created a "manifest.JSON" file this file is important as it has the loacation of the bucket that has the ".csv" file we want to analyze and visualise  
-![image](https://github.com/Alan9920/AWS-projects/assets/83747562/fff9b9de-1e8e-421a-912f-2c9b91e6e38e)
+![image](https://github.com/Alan9920/AWS-projects/assets/83747562/1576090c-6d4d-449b-9f6b-d6fad5c3751f)
 
 I uploaded the ".JSON" and ".csv" file to the bucket after and copied the S3 URL of the ".JSON" file as it will be needed later
 ![image](https://github.com/Alan9920/AWS-projects/assets/83747562/939e7fa4-8685-45e2-87ca-05ef2be5bd03)
